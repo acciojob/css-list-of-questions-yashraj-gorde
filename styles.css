@@ -3,6 +3,6 @@
   height: 50px;
   margin-top: 20px;
   padding: 15px;
-  width: 600px; /* ✅ fixed width for predictable testing */
+  max-width: 600px; /* ✅ fixed width for predictable testing */
   border-left: 8px solid green;
 }
